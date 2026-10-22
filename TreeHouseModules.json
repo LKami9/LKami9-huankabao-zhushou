@@ -5,11 +5,11 @@
       "InternalName": "LKami9TriadCardPacks",
       "Name": "LKami9幻卡包助手",
       "Author": "LKami9",
-      "Description": "列出每个幻卡包内含的幻卡与持有情况，悬停卡包时在游戏里弹出内容提示，可自动使用背包中未持有的幻卡、自动开幻卡包。",
-      "Version": "1.1.0",
-      "MinimumOmniVersion": "1.1.3.0",
+      "Description": "列出各幻卡包内含的幻卡与持有情况，可自动使用背包中未持有的幻卡、自动开幻卡包；短命令 /L9KH 一键重检，悬停弹出卡包内容提示，颜色跟随 Omni 主题。",
+      "Version": "1.2.0",
+      "MinimumOmniVersion": "1.1.7.0",
       "File": "Modules/LKami9TriadCardPacks.cs",
-      "Sha256": "EBE44E0D7CE3B4718B35473A9C68C3133F705C894A3110DE119C4EBE9452D6A2"
+      "Sha256": "1C3DA86CBAD332BAC19A6B47C7556D7ED9E043942C6ECFB1CBAA1C50FE541869"
     }
   ]
 }
